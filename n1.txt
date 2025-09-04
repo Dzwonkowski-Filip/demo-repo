@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 Notes
 Dodatkowe notki.
->>>>>>> parent of 127c34b (add to n1)
